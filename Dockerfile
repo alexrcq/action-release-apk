@@ -1,4 +1,4 @@
-FROM debian:11-slim
+FROM debian:12-slim
 
 LABEL "version"="0.0.6"
 LABEL "com.github.actions.name"="Debug APK Publisher"
